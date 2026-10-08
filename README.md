@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 ## 🚀 Live Demo
 
-[[Click here to try the Heart Disease Prediction App](YOUR_STREAMLIT_APP_URL)](https://heart-disease-prediction-garvit.streamlit.app/)
+[[[Click here to try the Heart Disease Prediction App: https://heart-disease-prediction-garvit.streamlit.app/
 
 A Machine Learning project that predicts the presence of heart disease using patient health and clinical information.
 
